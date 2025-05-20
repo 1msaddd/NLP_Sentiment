@@ -1,1 +1,8 @@
 venv/
+albert/
+bestModel/
+distilbert/
+electra/
+tinybert/
+test.csv
+train.csv
